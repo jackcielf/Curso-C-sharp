@@ -1,0 +1,7 @@
+D:\C#\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe.config
+D:\C#\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.exe
+D:\C#\CalculoTriangulo\CalculoTriangulo\bin\Debug\CalculoTriangulo.pdb
+D:\C#\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.AssemblyReference.cache
+D:\C#\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.csproj.CoreCompileInputs.cache
+D:\C#\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.exe
+D:\C#\CalculoTriangulo\CalculoTriangulo\obj\Debug\CalculoTriangulo.pdb
